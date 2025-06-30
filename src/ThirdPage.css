@@ -1,0 +1,112 @@
+.third-page .main-content {
+    padding: 40px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 32px;
+    color: #333;
+  }
+  
+  .highlight {
+    color: #0066ff;
+  }
+  
+  .ingredients-scroll {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    width: 100%;
+    max-width: 1100px;
+    overflow-y: auto;
+    max-height: 70vh;
+    padding-right: 8px;
+  }
+  
+  .ingredient-row-card {
+    background: #fff;
+    border-radius: 32px;
+    box-shadow: 0 6px 24px rgba(60, 60, 60, 0.18), 0 1.5px 6px rgba(60, 60, 60, 0.10);
+    padding: 32px 24px 24px 24px;
+    display: flex;
+    align-items: flex-start;
+    gap: 24px;
+    min-width: 900px;
+  }
+  
+  .find-more-btn {
+    border: 2px solid #333;
+    background: #fff;
+    color: #333;
+    border-radius: 24px;
+    padding: 12px 28px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-right: 24px;
+    align-self: flex-start;
+    transition: background 0.2s, color 0.2s;
+  }
+  
+  .find-more-btn:hover {
+    background: #f0f0f0;
+  }
+  
+  .product-row {
+    display: flex;
+    gap: 32px;
+    flex-wrap: wrap;
+    overflow-x: visible;
+  }
+  
+  .product-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 180px;
+    background: none;
+    border: none;
+  }
+  
+  .product-img {
+    width: 80px;
+    height: 120px;
+    object-fit: contain;
+    margin-bottom: 8px;
+  }
+  
+  .add-btn {
+    background: #0066ff;
+    color: #fff;
+    border: none;
+    border-radius: 24px;
+    padding: 8px 24px;
+    font-weight: 700;
+    margin-bottom: 8px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background 0.2s;
+  }
+  
+  .add-btn:hover {
+    background: #004fcc;
+  }
+  
+  .product-price {
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+  
+  .product-title {
+    font-size: 0.95rem;
+    text-align: center;
+    margin-bottom: 4px;
+  }
+  
+  .product-rating {
+    font-size: 0.9rem;
+    color: #444;
+  }

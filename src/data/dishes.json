@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Grilled Cheese Sandwich",
+    "ingredients": ["bread", "cheese", "butter"]
+  },
+  {
+    "name": "Omelette",
+    "ingredients": ["eggs", "milk", "cheese"]
+  },
+  {
+    "name": "Tomato Soup",
+    "ingredients": ["tomatoes", "onion", "garlic", "cream"]
+  },
+  {
+    "name": "Vegetable Soup",
+    "ingredients": ["carrots", "potatoes", "peas", "corn", "green beans", "broth"]
+  },
+  {
+    "name": "Pasta with Tomato Sauce",
+    "ingredients": ["pasta", "tomato sauce", "cheese"]
+  },
+  {
+    "name": "Egg Salad",
+    "ingredients": ["eggs", "mayonnaise", "mustard", "bread"]
+  },
+  {
+    "name": "Quesadilla",
+    "ingredients": ["tortilla", "cheese"]
+  }
+] 

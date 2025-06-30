@@ -18,7 +18,7 @@ const WalmartSpark = () => (
   </svg>
 );
 
-const Navbar = () => {
+const Navbar = ({ cartCount=0 }) => {
   return (
     <nav className="navbar">
       <div className="navbar-left">
@@ -48,7 +48,7 @@ const Navbar = () => {
         </div>
         <div className="cart">
           <FaShoppingCart className="cart-icon" />
-          <span className="cart-badge">0</span>
+          <span className="cart-badge">{cartCount}</span>
         </div>
       </div>
     </nav>
