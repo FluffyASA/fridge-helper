@@ -12,7 +12,7 @@ function SecondPage() {
   const handleUpload = (e) => {
     const file = e.target.files[0];
     if (file) {
-      setImage(URL.createObjectURL(file));
+      setImage(file);
     }
   };
 
@@ -33,13 +33,15 @@ const handleSubmit = async () => {
     formData.append('dish', dish);
 
     try {
-      const response = await fetch('http://localhost:3000/detect', {
+      const response = await fetch('http://localhost:5000/detect', {
         method: 'POST',
         body: formData,
       });
       const data = await response.json();
 
-      // Pass missing ingredients to ThirdPage using navigate state
+      // Debug log
+      console.log("Backend data:", data);
+
       navigate('/third', { state: { missingIngredients: data.missing, selectedDish: dish } });
 
     } catch (error) {
@@ -100,7 +102,7 @@ const handleSubmit = async () => {
                   />
                   <span className="upload-btn">Upload Image</span>
                 </label>
-                {image && <img src={image} alt="Preview" className="preview-img" />}
+                {image && <img src={URL.createObjectURL(image)} alt="Preview" className="preview-img" />}
               </div>
               <div className="icon-container">
                 {/* Camera SVG icon */}
