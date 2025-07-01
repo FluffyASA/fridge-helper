@@ -1,5 +1,6 @@
 import React from 'react';
 import { FaShoppingCart, FaUser, FaSearch } from 'react-icons/fa';
+import { Link } from 'react-router-dom';
 import './Navbar.css';
 
 const WalmartSpark = () => (
@@ -46,10 +47,10 @@ const Navbar = ({ cartCount=0 }) => {
             <span className="account-bold">Account</span>
           </div>
         </div>
-        <div className="cart">
+        <Link to="/cart" className="cart">
           <FaShoppingCart className="cart-icon" />
           <span className="cart-badge">{cartCount}</span>
-        </div>
+        </Link>
       </div>
     </nav>
   );

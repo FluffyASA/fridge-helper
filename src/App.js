@@ -4,6 +4,7 @@ import SubNavbar from './SubNavbar';
 import PantryCard from './PantryCard';
 import SecondPage from './SecondPage';
 import ThirdPage from './ThirdPage';
+import CartPage from './CartPage';
 import './App.css';
 
 function App() {
@@ -24,7 +25,7 @@ function App() {
           } />
           <Route path="/second-page" element={<SecondPage />} />
           <Route path="/third" element={<ThirdPage />} />
-
+          <Route path="/cart" element={<CartPage />} />
         </Routes>
       </div>
     </Router>
