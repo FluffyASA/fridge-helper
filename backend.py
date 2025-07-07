@@ -50,7 +50,7 @@ def get_ingredients_for_dish(dish_name):
 # ---- REAL ROBOFLOW DETECTION ----
 def detect_items_in_image(image_bytes):
     # Prepare Roboflow API call
-    api_key = "ehOblI0FULnGXOgmjqsl"
+    api_key = "YOUR_API_KEY_HERE"  # <-- Replace with your actual API key
     project = "smartfridgle-wso9t"
     version = "1"
 
