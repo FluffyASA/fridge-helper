@@ -73,10 +73,9 @@ const handleSubmit = async () => {
                   <option value="Pasta">Pasta</option>
                   <option value="Omelette">Omelette</option>
                   <option value="Avocado Toast">Avocado Toast</option>
-                  <option value="PBJ sandwich">PBJ sandwich</option>
-                  <option value="Tomato soup">Tomato soup</option>
+                  <option value="PBJ Sandwich">PBJ Sandwich</option>
+                  <option value="Tomato Soup">Tomato Soup</option>
                   <option value="Fruit Salad">Fruit Salad</option>
-
                 </select>
               </div>
               <div className="icon-container">

@@ -4,21 +4,21 @@ export const ingredientBrands = {
         products: [
           {
             brand: "Organic Valley",
-            image: "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+            image: "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg?auto=compress&cs=tinysrgb&w=400",
             price: "$6.57",
             title: "Organic Valley 2% Reduced Fat Organic Milk - Ultra Pasteurized, 64 oz Half Gallon",
             rating: "★★★★☆ 7"
           },
           {
             brand: "Organic Valley Grassmilk",
-            image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+            image: "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg?auto=compress&cs=tinysrgb&w=400",
             price: "$7.00",
             title: "Organic Valley Whole Milk, Grassfed, 64 oz Half Gallon",
             rating: "★★★★☆ 24"
           },
           {
             brand: "Organic Valley Whole Milk",
-            image: "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80",
+            image: "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg?auto=compress&cs=tinysrgb&w=400",
             price: "$6.57",
             title: "Organic Valley Whole Milk, 64 oz Half Gallon",
             rating: "★★★☆☆ 17"
@@ -30,21 +30,21 @@ export const ingredientBrands = {
         products: [
           {
             brand: "Kraft",
-            image: "https://images.unsplash.com/photo-1683314573422-649a3c6ad784?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            image: "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=400",
             price: "$3.50",
             title: "Kraft Singles American Cheese Slices, 16 ct, 12 oz",
             rating: "★★★★☆ 120"
           },
           {
             brand: "Great Value",
-            image: "https://images.unsplash.com/photo-1589881133595-a3c085cb731d?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            image: "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=400",
             price: "$2.98",
             title: "Great Value Finely Shredded Mild Cheddar Cheese, 8 oz",
             rating: "★★★★☆ 85"
           },
           {
             brand: "Sargento",
-            image: "https://images.unsplash.com/photo-1589987689372-3f0da0d8d082?auto=format&fit=crop&w=400&q=80",
+            image: "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=400",
             price: "$4.25",
             title: "Sargento Natural Sharp Cheddar Cheese Slices, 10 ct, 7.5 oz",
             rating: "★★★★☆ 60"
@@ -58,21 +58,21 @@ export const ingredientBrands = {
       products: [
         {
           brand: "Sara Lee",
-          image: "https://images.unsplash.com/photo-1605478528210-5b6fa56bdc1f?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/144569/pexels-photo-144569.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$3.28",
           title: "Sara Lee Artesano Bakery Bread, 20 oz",
           rating: "★★★★☆ 152"
         },
         {
           brand: "Dave's Killer Bread",
-          image: "https://images.unsplash.com/photo-1553177595-71e5b4c6b5b9?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/144569/pexels-photo-144569.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$5.68",
           title: "Dave's Killer Bread Organic 21 Whole Grains and Seeds, 27 oz",
           rating: "★★★★★ 430"
         },
         {
           brand: "Wonder Bread",
-          image: "https://images.unsplash.com/photo-1619713053907-43e6c8fb2cd5?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/144569/pexels-photo-144569.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$2.98",
           title: "Wonder Classic White Bread, 20 oz",
           rating: "★★★★☆ 400"
@@ -85,17 +85,24 @@ export const ingredientBrands = {
       products: [
         {
           brand: "Fresh Roma Tomatoes",
-          image: "https://images.unsplash.com/photo-1592928301058-27c97bd948f9?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/159292/pexels-photo-159292.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$1.28/lb",
           title: "Roma Tomatoes, Fresh per lb",
           rating: "★★★★★ 500"
         },
         {
           brand: "Vine Ripe Tomatoes",
-          image: "https://images.unsplash.com/photo-1582281298057-aaa67c1c7d83?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/159292/pexels-photo-159292.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$2.48/lb",
           title: "Vine Ripe Tomatoes, per lb",
           rating: "★★★★☆ 320"
+        },
+        {
+          brand: "Cherry Tomatoes",
+          image: "https://images.pexels.com/photos/159292/pexels-photo-159292.jpeg?auto=compress&cs=tinysrgb&w=400",
+          price: "$3.98/lb",
+          title: "Cherry Tomatoes, per lb",
+          rating: "★★★★★ 680"
         }
       ]
     },
@@ -105,17 +112,24 @@ export const ingredientBrands = {
       products: [
         {
           brand: "Fresh Iceberg Lettuce",
-          image: "https://images.unsplash.com/photo-1584270354949-1e48b9ffbd2a?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/158427/pexels-photo-158427.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$1.48",
           title: "Iceberg Lettuce, Each",
           rating: "★★★★☆ 180"
         },
         {
           brand: "Romaine Hearts",
-          image: "https://images.unsplash.com/photo-1572441710533-2196e5b07d02?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/158427/pexels-photo-158427.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$2.98",
           title: "Fresh Romaine Hearts, 3 ct",
           rating: "★★★★☆ 210"
+        },
+        {
+          brand: "Organic Spring Mix",
+          image: "https://images.pexels.com/photos/158427/pexels-photo-158427.jpeg?auto=compress&cs=tinysrgb&w=400",
+          price: "$3.98",
+          title: "Organic Spring Mix Lettuce, 5 oz",
+          rating: "★★★★★ 320"
         }
       ]
     },
@@ -125,17 +139,24 @@ export const ingredientBrands = {
       products: [
         {
           brand: "Eggland's Best",
-          image: "https://images.unsplash.com/photo-1589927986089-35812389fc2d?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/4110221/pexels-photo-4110221.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$3.18",
           title: "Eggland's Best Cage-Free Large Brown Eggs, 12 Count",
           rating: "★★★★★ 530"
         },
         {
           brand: "Great Value",
-          image: "https://images.unsplash.com/photo-1590502593741-bfd4b6fe5d2a?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/4110221/pexels-photo-4110221.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$2.54",
           title: "Great Value Large White Eggs, 12 Count",
           rating: "★★★★☆ 400"
+        },
+        {
+          brand: "Organic Valley",
+          image: "https://images.pexels.com/photos/4110221/pexels-photo-4110221.jpeg?auto=compress&cs=tinysrgb&w=400",
+          price: "$4.98",
+          title: "Organic Valley Organic Large Brown Eggs, 12 Count",
+          rating: "★★★★★ 480"
         }
       ]
     },
@@ -145,10 +166,24 @@ export const ingredientBrands = {
       products: [
         {
           brand: "Fresh Hass Avocados",
-          image: "https://images.unsplash.com/photo-1571771689007-1964b9b9e5a4?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/5576599/pexels-photo-5576599.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$1.28",
           title: "Hass Avocado, Each",
           rating: "★★★★★ 900"
+        },
+        {
+          brand: "Organic Avocados",
+          image: "https://images.pexels.com/photos/5576599/pexels-photo-5576599.jpeg?auto=compress&cs=tinysrgb&w=400",
+          price: "$1.98",
+          title: "Organic Hass Avocados, 4 ct",
+          rating: "★★★★★ 750"
+        },
+        {
+          brand: "Mini Avocados",
+          image: "https://images.pexels.com/photos/5576599/pexels-photo-5576599.jpeg?auto=compress&cs=tinysrgb&w=400",
+          price: "$2.48",
+          title: "Mini Hass Avocados, 6 ct",
+          rating: "★★★★☆ 600"
         }
       ]
     },
@@ -158,37 +193,51 @@ export const ingredientBrands = {
       products: [
         {
           brand: "Jif",
-          image: "https://images.unsplash.com/photo-1610986603161-0bce463c51f2?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/533360/pexels-photo-533360.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$3.12",
           title: "Jif Creamy Peanut Butter, 16 oz",
           rating: "★★★★★ 950"
         },
         {
           brand: "Skippy",
-          image: "https://images.unsplash.com/photo-1626127597783-7cb8e7c7d293?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/533360/pexels-photo-533360.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$3.45",
           title: "Skippy Super Chunk Peanut Butter, 16 oz",
           rating: "★★★★☆ 820"
+        },
+        {
+          brand: "Natural Peanut Butter",
+          image: "https://images.pexels.com/photos/533360/pexels-photo-533360.jpeg?auto=compress&cs=tinysrgb&w=400",
+          price: "$4.98",
+          title: "Natural Peanut Butter, 16 oz",
+          rating: "★★★★★ 680"
         }
       ]
     },
   
-    jam: {
+    marmelade: {
       findMoreLink: "https://www.walmart.com/search/?query=strawberry%20jam",
       products: [
         {
           brand: "Smucker's",
-          image: "https://images.unsplash.com/photo-1626127597783-7cb8e7c7d293?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/533360/pexels-photo-533360.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$2.50",
           title: "Smucker's Strawberry Jam, 20 oz",
           rating: "★★★★★ 850"
         },
         {
           brand: "Welch's",
-          image: "https://images.unsplash.com/photo-1603570412156-4173c7e0a0f1?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/533360/pexels-photo-533360.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$2.84",
           title: "Welch's Concord Grape Jelly, 20 oz",
           rating: "★★★★☆ 600"
+        },
+        {
+          brand: "Bonne Maman",
+          image: "https://images.pexels.com/photos/533360/pexels-photo-533360.jpeg?auto=compress&cs=tinysrgb&w=400",
+          price: "$4.98",
+          title: "Bonne Maman Strawberry Preserves, 13 oz",
+          rating: "★★★★★ 720"
         }
       ]
     },
@@ -198,17 +247,24 @@ export const ingredientBrands = {
       products: [
         {
           brand: "Barilla",
-          image: "https://images.unsplash.com/photo-1626093231086-4c2f39fa71c2?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$1.48",
           title: "Barilla Spaghetti Pasta, 16 oz",
           rating: "★★★★★ 500"
         },
         {
           brand: "Great Value",
-          image: "https://images.unsplash.com/photo-1626093231123-f564e5e13b29?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$1.12",
           title: "Great Value Penne Pasta, 16 oz",
           rating: "★★★★☆ 320"
+        },
+        {
+          brand: "De Cecco",
+          image: "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg?auto=compress&cs=tinysrgb&w=400",
+          price: "$2.18",
+          title: "De Cecco Linguine Pasta, 16 oz",
+          rating: "★★★★★ 450"
         }
       ]
     },
@@ -218,10 +274,24 @@ export const ingredientBrands = {
       products: [
         {
           brand: "Land O Lakes",
-          image: "https://images.unsplash.com/photo-1588345913600-8aa351b7f58b?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/4109943/pexels-photo-4109943.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$4.24",
           title: "Land O Lakes Salted Butter, 4 sticks, 16 oz",
           rating: "★★★★★ 800"
+        },
+        {
+          brand: "Great Value",
+          image: "https://images.pexels.com/photos/4109943/pexels-photo-4109943.jpeg?auto=compress&cs=tinysrgb&w=400",
+          price: "$3.48",
+          title: "Great Value Salted Butter, 4 sticks, 16 oz",
+          rating: "★★★★☆ 650"
+        },
+        {
+          brand: "Kerrygold",
+          image: "https://images.pexels.com/photos/4109943/pexels-photo-4109943.jpeg?auto=compress&cs=tinysrgb&w=400",
+          price: "$6.98",
+          title: "Kerrygold Pure Irish Butter, 8 oz",
+          rating: "★★★★★ 920"
         }
       ]
     },
@@ -231,10 +301,24 @@ export const ingredientBrands = {
       products: [
         {
           brand: "Great Value",
-          image: "https://images.unsplash.com/photo-1605478528210-5b6fa56bdc1f?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/160547/pexels-photo-160547.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$5.44",
           title: "Great Value Extra Virgin Olive Oil, 51 fl oz",
           rating: "★★★★☆ 500"
+        },
+        {
+          brand: "Bertolli",
+          image: "https://images.pexels.com/photos/160547/pexels-photo-160547.jpeg?auto=compress&cs=tinysrgb&w=400",
+          price: "$8.98",
+          title: "Bertolli Extra Virgin Olive Oil, 25.4 fl oz",
+          rating: "★★★★★ 650"
+        },
+        {
+          brand: "Organic Olive Oil",
+          image: "https://images.pexels.com/photos/160547/pexels-photo-160547.jpeg?auto=compress&cs=tinysrgb&w=400",
+          price: "$12.98",
+          title: "Organic Extra Virgin Olive Oil, 16.9 fl oz",
+          rating: "★★★★★ 720"
         }
       ]
     },
@@ -244,10 +328,24 @@ export const ingredientBrands = {
       products: [
         {
           brand: "Morton",
-          image: "https://images.unsplash.com/photo-1590080875831-b458b03b5f91?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/159008/pexels-photo-159008.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$1.12",
           title: "Morton Iodized Salt, 26 oz",
           rating: "★★★★★ 900"
+        },
+        {
+          brand: "Kosher Salt",
+          image: "https://images.pexels.com/photos/159008/pexels-photo-159008.jpeg?auto=compress&cs=tinysrgb&w=400",
+          price: "$2.48",
+          title: "Kosher Salt, 3 lb",
+          rating: "★★★★★ 750"
+        },
+        {
+          brand: "Sea Salt",
+          image: "https://images.pexels.com/photos/159008/pexels-photo-159008.jpeg?auto=compress&cs=tinysrgb&w=400",
+          price: "$3.98",
+          title: "Fine Sea Salt, 8 oz",
+          rating: "★★★★☆ 680"
         }
       ]
     },
@@ -257,29 +355,50 @@ export const ingredientBrands = {
       products: [
         {
           brand: "McCormick",
-          image: "https://images.unsplash.com/photo-1590502593741-bfd4b6fe5d2a?auto=format&fit=crop&w=400&q=80",
+          image: "https://images.pexels.com/photos/159050/pexels-photo-159050.jpeg?auto=compress&cs=tinysrgb&w=400",
           price: "$2.88",
           title: "McCormick Pure Ground Black Pepper, 3 oz",
           rating: "★★★★☆ 120"
+        },
+        {
+          brand: "Whole Black Peppercorns",
+          image: "https://images.pexels.com/photos/159050/pexels-photo-159050.jpeg?auto=compress&cs=tinysrgb&w=400",
+          price: "$4.98",
+          title: "Whole Black Peppercorns, 8 oz",
+          rating: "★★★★★ 450"
+        },
+        {
+          brand: "Fresh Ground Pepper",
+          image: "https://images.pexels.com/photos/159050/pexels-photo-159050.jpeg?auto=compress&cs=tinysrgb&w=400",
+          price: "$6.98",
+          title: "Fresh Ground Black Pepper Grinder, 4 oz",
+          rating: "★★★★★ 380"
         }
       ]
     },
-    tomatoSauce: {
+    tomato_sauce: {
         findMoreLink: "https://www.walmart.com/search/?query=tomato%20sauce",
         products: [
           {
             brand: "Rao's Homemade",
-            image: "https://images.unsplash.com/photo-1615484478435-4e7e32c1b70e?auto=format&fit=crop&w=400&q=80",
+            image: "https://images.pexels.com/photos/161548/pexels-photo-161548.jpeg?auto=compress&cs=tinysrgb&w=400",
             price: "$8.98",
             title: "Rao's Homemade Marinara Sauce, 24 oz",
             rating: "★★★★★ 430"
           },
           {
             brand: "Hunt's",
-            image: "https://images.unsplash.com/photo-1588459461923-3b88e1f4320f?auto=format&fit=crop&w=400&q=80",
+            image: "https://images.pexels.com/photos/161548/pexels-photo-161548.jpeg?auto=compress&cs=tinysrgb&w=400",
             price: "$1.18",
             title: "Hunt's Traditional Pasta Sauce, 24 oz",
             rating: "★★★★☆ 300"
+          },
+          {
+            brand: "Prego",
+            image: "https://images.pexels.com/photos/161548/pexels-photo-161548.jpeg?auto=compress&cs=tinysrgb&w=400",
+            price: "$2.48",
+            title: "Prego Traditional Pasta Sauce, 24 oz",
+            rating: "★★★★☆ 280"
           }
         ]
       },
@@ -289,10 +408,24 @@ export const ingredientBrands = {
         products: [
           {
             brand: "Fresh Yellow Onion",
-            image: "https://images.unsplash.com/photo-1582515073490-399813d97c8f?auto=format&fit=crop&w=400&q=80",
+            image: "https://images.pexels.com/photos/1448829/pexels-photo-1448829.jpeg?auto=compress&cs=tinysrgb&w=400",
             price: "$0.98/lb",
             title: "Yellow Onion, per lb",
             rating: "★★★★★ 450"
+          },
+          {
+            brand: "Sweet Vidalia Onion",
+            image: "https://images.pexels.com/photos/1448829/pexels-photo-1448829.jpeg?auto=compress&cs=tinysrgb&w=400",
+            price: "$1.48/lb",
+            title: "Sweet Vidalia Onions, per lb",
+            rating: "★★★★★ 520"
+          },
+          {
+            brand: "Red Onion",
+            image: "https://images.pexels.com/photos/1448829/pexels-photo-1448829.jpeg?auto=compress&cs=tinysrgb&w=400",
+            price: "$1.28/lb",
+            title: "Red Onions, per lb",
+            rating: "★★★★☆ 380"
           }
         ]
       },
@@ -302,23 +435,51 @@ export const ingredientBrands = {
         products: [
           {
             brand: "Fresh Garlic",
-            image: "https://images.unsplash.com/photo-1579710754609-09d3f16e1759?auto=format&fit=crop&w=400&q=80",
+            image: "https://images.pexels.com/photos/1448829/pexels-photo-1448829.jpeg?auto=compress&cs=tinysrgb&w=400",
             price: "$1.58",
             title: "Fresh Garlic, 3 count",
             rating: "★★★★★ 500"
+          },
+          {
+            brand: "Organic Garlic",
+            image: "https://images.pexels.com/photos/1448829/pexels-photo-1448829.jpeg?auto=compress&cs=tinysrgb&w=400",
+            price: "$2.48",
+            title: "Organic Fresh Garlic, 6 count",
+            rating: "★★★★★ 420"
+          },
+          {
+            brand: "Minced Garlic",
+            image: "https://images.pexels.com/photos/1448829/pexels-photo-1448829.jpeg?auto=compress&cs=tinysrgb&w=400",
+            price: "$3.98",
+            title: "Minced Garlic in Olive Oil, 8 oz",
+            rating: "★★★★☆ 350"
           }
         ]
       },
     
-      cream: {
+      heavy_cream: {
         findMoreLink: "https://www.walmart.com/search/?query=heavy%20cream",
         products: [
           {
             brand: "Land O Lakes",
-            image: "https://images.unsplash.com/photo-1588345913600-8aa351b7f58b?auto=format&fit=crop&w=400&q=80",
+            image: "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg?auto=compress&cs=tinysrgb&w=400",
             price: "$3.68",
             title: "Land O Lakes Heavy Whipping Cream, 16 oz",
             rating: "★★★★★ 520"
+          },
+          {
+            brand: "Great Value",
+            image: "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg?auto=compress&cs=tinysrgb&w=400",
+            price: "$2.98",
+            title: "Great Value Heavy Whipping Cream, 16 oz",
+            rating: "★★★★☆ 450"
+          },
+          {
+            brand: "Organic Valley",
+            image: "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg?auto=compress&cs=tinysrgb&w=400",
+            price: "$4.98",
+            title: "Organic Valley Organic Heavy Whipping Cream, 16 oz",
+            rating: "★★★★★ 480"
           }
         ]
       },
@@ -328,10 +489,24 @@ export const ingredientBrands = {
         products: [
           {
             brand: "Gala Apple",
-            image: "https://images.unsplash.com/photo-1574226516831-e1dff420e12b?auto=format&fit=crop&w=400&q=80",
+            image: "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg?auto=compress&cs=tinysrgb&w=400",
             price: "$1.47/lb",
             title: "Gala Apples, per lb",
             rating: "★★★★★ 800"
+          },
+          {
+            brand: "Honeycrisp Apple",
+            image: "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg?auto=compress&cs=tinysrgb&w=400",
+            price: "$2.98/lb",
+            title: "Honeycrisp Apples, per lb",
+            rating: "★★★★★ 950"
+          },
+          {
+            brand: "Organic Fuji Apple",
+            image: "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg?auto=compress&cs=tinysrgb&w=400",
+            price: "$3.48/lb",
+            title: "Organic Fuji Apples, per lb",
+            rating: "★★★★★ 720"
           }
         ]
       },
@@ -341,10 +516,24 @@ export const ingredientBrands = {
         products: [
           {
             brand: "Fresh Bananas",
-            image: "https://images.unsplash.com/photo-1574226516831-e1dff420e12b?auto=format&fit=crop&w=400&q=80",
+            image: "https://images.pexels.com/photos/47305/bananas-banana-shrub-fruits-yellow-47305.jpeg?auto=compress&cs=tinysrgb&w=400",
             price: "$0.58/lb",
             title: "Bananas, per lb",
             rating: "★★★★★ 1000"
+          },
+          {
+            brand: "Organic Bananas",
+            image: "https://images.pexels.com/photos/47305/bananas-banana-shrub-fruits-yellow-47305.jpeg?auto=compress&cs=tinysrgb&w=400",
+            price: "$0.98/lb",
+            title: "Organic Bananas, per lb",
+            rating: "★★★★★ 850"
+          },
+          {
+            brand: "Mini Bananas",
+            image: "https://images.pexels.com/photos/47305/bananas-banana-shrub-fruits-yellow-47305.jpeg?auto=compress&cs=tinysrgb&w=400",
+            price: "$1.48/lb",
+            title: "Mini Bananas, per lb",
+            rating: "★★★★☆ 680"
           }
         ]
       },
@@ -354,10 +543,24 @@ export const ingredientBrands = {
         products: [
           {
             brand: "Navel Orange",
-            image: "https://images.unsplash.com/photo-1584274570611-aeb707aed9b8?auto=format&fit=crop&w=400&q=80",
+            image: "https://images.pexels.com/photos/42059/citrus-diet-food-fresh-42059.jpeg?auto=compress&cs=tinysrgb&w=400",
             price: "$1.18 each",
             title: "Navel Orange, Each",
             rating: "★★★★★ 700"
+          },
+          {
+            brand: "Blood Orange",
+            image: "https://images.pexels.com/photos/42059/citrus-diet-food-fresh-42059.jpeg?auto=compress&cs=tinysrgb&w=400",
+            price: "$1.98 each",
+            title: "Blood Orange, Each",
+            rating: "★★★★★ 580"
+          },
+          {
+            brand: "Organic Valencia Orange",
+            image: "https://images.pexels.com/photos/42059/citrus-diet-food-fresh-42059.jpeg?auto=compress&cs=tinysrgb&w=400",
+            price: "$2.48 each",
+            title: "Organic Valencia Orange, Each",
+            rating: "★★★★★ 650"
           }
         ]
       },
@@ -367,10 +570,24 @@ export const ingredientBrands = {
         products: [
           {
             brand: "Red Seedless Grapes",
-            image: "https://images.unsplash.com/photo-1560807707-8cc77767d783?auto=format&fit=crop&w=400&q=80",
+            image: "https://images.pexels.com/photos/156080/pexels-photo-156080.jpeg?auto=compress&cs=tinysrgb&w=400",
             price: "$2.28/lb",
             title: "Red Seedless Grapes, per lb",
             rating: "★★★★★ 650"
+          },
+          {
+            brand: "Green Seedless Grapes",
+            image: "https://images.pexels.com/photos/156080/pexels-photo-156080.jpeg?auto=compress&cs=tinysrgb&w=400",
+            price: "$2.48/lb",
+            title: "Green Seedless Grapes, per lb",
+            rating: "★★★★★ 580"
+          },
+          {
+            brand: "Black Seedless Grapes",
+            image: "https://images.pexels.com/photos/156080/pexels-photo-156080.jpeg?auto=compress&cs=tinysrgb&w=400",
+            price: "$2.98/lb",
+            title: "Black Seedless Grapes, per lb",
+            rating: "★★★★☆ 520"
           }
         ]
       },
